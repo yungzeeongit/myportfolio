@@ -37,7 +37,10 @@ nav .fa-solid{
     display: none;
 }
 .hero-img {
-  right: 0;
+    position: absolute;
+
+  right: 50px;
+  top: 60px;
   z-index: 100;  
 }
 
