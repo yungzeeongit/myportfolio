@@ -38,11 +38,12 @@ nav .fa-solid{
     display: none;
 }
 .hero-img {
-    height: 70vh;
+    
   position: absolute;
   right: 20px;
   top: 60px;
   z-index: -1;  
+  opacity: 3;
 }
 
 .logo{
