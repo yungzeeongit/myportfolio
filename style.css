@@ -31,6 +31,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    position:fixed;
 }
 nav .fa-solid{
     display: none;
