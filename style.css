@@ -457,6 +457,12 @@ nav ul li{
 .contact-left,.contact-right{
     flex-basis: 100%;
 }
+form input, form textarea{
+    width: 100%;
+    border: 0;
+    outline: none;
+    color: #fff;
+}
 
 .copyright{
     font-size: 14px;
