@@ -42,7 +42,7 @@ nav .fa-solid{
   position: absolute;
   right: 20px;
   top: 60px;
-  z-index: 100;  
+  z-index: -1;  
 }
 
 .logo{
