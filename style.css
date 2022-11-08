@@ -25,18 +25,15 @@ color: #fff;
 .container{
     padding: 10px 10%;
 }
-.nav-parent{
-  position: fixed;
-  top: 0;
-  left: 0;
-  margin: auto;
-  width: 100%;
-}
+
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    z-index: 100;
  }
 nav .fa-solid{
     display: none;
