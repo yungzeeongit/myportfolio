@@ -25,6 +25,7 @@ color: #fff;
 
 .container{
     padding: 10px 10%;
+    position:relative;
 }
 
 nav{
@@ -37,8 +38,7 @@ nav .fa-solid{
     display: none;
 }
 .hero-img {
-    position: absolute;
-
+  position: absolute;
   right: 50px;
   top: 60px;
   z-index: 100;  
