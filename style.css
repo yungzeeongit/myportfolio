@@ -29,10 +29,15 @@ color: #fff;
 }
 
 nav{
+  background: #080808;
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
    }
 nav .fa-solid{
     display: none;
