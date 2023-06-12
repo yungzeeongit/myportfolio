@@ -29,7 +29,7 @@ color: #fff;
 }
 
 nav{
-  background: #0C0404;
+      background: linear-gradient(to bottom, #080808, #54626F);
     display: flex;
     justify-content: space-between;
     align-items: center;
